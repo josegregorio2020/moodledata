@@ -1,0 +1,22 @@
+s:672:"<div class="container mt-5 p-4 bg-light rounded shadow-sm animate__animated animate__fadeIn">
+  <div class="text-center">
+    
+      
+    
+    <h1 class="display-5 fw-bold text-primary">¡Bienvenidos a AprendeTIC!</h1>
+    <p class="lead text-secondary">
+      Este espacio virtual ha sido creado para acompañarte en tu proceso de formación en <strong>Informática Básica</strong>.<br />
+      Te invitamos a explorar, aprender y crecer junto a nosotros 💻📚.
+    </p>
+    <div class="mt-4">
+      <a href="/my/" class="btn btn-primary btn-lg shadow">
+        
+          
+        
+        Entrar al curso
+      </a>
+    </div>
+  </div>
+</div>
+
+";

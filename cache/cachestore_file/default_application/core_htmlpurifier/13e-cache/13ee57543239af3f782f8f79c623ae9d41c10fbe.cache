@@ -1,0 +1,28 @@
+s:720:"<div class="container mt-4 p-4 bg-white rounded shadow-sm animate__animated animate__fadeIn" style="max-width:600px;margin:auto;">
+  <div class="text-center">
+    
+    
+      
+    
+
+    
+    <h2 class="fw-bold text-primary">¡Bienvenidos a AprendeTIC!</h2>
+
+    
+    <p class="text-muted mt-3 mb-4" style="font-size:1.1rem;">
+      Este espacio virtual ha sido creado para acompañarte en tu<br />
+      proceso de formación en <strong>Informática Básica</strong>.<br />
+      Te invitamos a explorar, aprender y crecer junto a nosotros 💻📚
+    </p>
+
+    
+    <a href="/my/" class="btn btn-primary btn-lg shadow">
+      
+        
+      
+      Entrar al curso
+    </a>
+  </div>
+</div>
+
+";

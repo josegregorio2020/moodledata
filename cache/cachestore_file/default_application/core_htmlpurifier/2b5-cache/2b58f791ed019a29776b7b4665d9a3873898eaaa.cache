@@ -1,0 +1,27 @@
+s:971:"<div class="container my-4">
+  <div class="row justify-content-center">
+    <div class="col-md-10 text-center">
+
+      
+      <h2 class="mb-3 text-primary">Visualización 3D del Servidor (CPU)</h2>
+
+      
+      <p class="lead text-muted">
+        A continuación puedes explorar un modelo 3D interactivo de un <strong>servidor</strong>. Este equipo forma parte del <em>hardware fundamental</em> en redes y centros de datos. Puedes rotarlo, hacer zoom y observar detalles como las ranuras de ventilación, puertos USB frontales y el diseño del gabinete.
+      </p>
+
+      
+      <div class="embed-responsive embed-responsive-16by9 mb-3">
+        
+        
+      </div>
+
+      
+      <p class="small text-muted">
+        Modelo 3D visualizado con <strong>Sketchfab®</strong> — 
+        <a href="https://sketchfab.com" target="_blank" class="text-info" rel="noreferrer noopener">https://sketchfab.com</a>
+      </p>
+
+    </div>
+  </div>
+</div>";

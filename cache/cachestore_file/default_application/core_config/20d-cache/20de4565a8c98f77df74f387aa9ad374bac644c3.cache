@@ -1,0 +1,7 @@
+a:9:{s:15:"backgroundimage";s:24:"/Alcaldia de ibague.jpeg";s:10:"brandcolor";s:0:"";s:20:"loginbackgroundimage";s:24:"/Alcaldia de ibague.jpeg";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:192:"/***** Ocultar botón de edición para estudiantes *****/
+.role-student .buttons .editingbutton,
+.role-student .buttons .dropdown-toggle.editingbutton {
+    display: none !important;
+}
+
+";s:7:"scsspre";s:0:"";s:15:"unaddableblocks";s:45:"navigation,settings,course_list,section_links";s:7:"version";s:10:"2022112800";}
